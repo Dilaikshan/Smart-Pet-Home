@@ -56,7 +56,7 @@ This project consists of **four Arduinos**, each handling a specific function:
 ## 🏆 Contributions
 | Team Member    | Contribution |
 |---------------|-------------|
-| **Joachim**  | Integrated all Arduinos via **I2C Communication**, tested & debugged overall system, implemented final logic for alerts & display. |
+| **Dilaikshan MJA**  | Integrated all Arduinos via **I2C Communication**, tested & debugged overall system, implemented final logic for alerts & display. |
 | **Hanusjan**  | Developed **Master Arduino** (Display & Alerts), controlled LCD, LEDs, and buzzer. |
 | **Rashad**  | Implemented **Pet Monitoring System** with ultrasonic/PIR sensor and communication with Master Arduino. |
 | **Hafas**  | Built the **Feeding System**, programmed servo motor for food dispensing, implemented food weight checking logic. |
